@@ -1,5 +1,0 @@
-requests
-tqdm
-opencv-python==4.5.3.56
-numpy==1.18.4
-shapely==1.7.0
