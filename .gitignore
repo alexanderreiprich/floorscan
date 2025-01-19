@@ -1,3 +1,4 @@
 data
 model
 *_old.ipynb
+.gitignore
