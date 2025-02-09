@@ -2,3 +2,4 @@ data
 model
 *_old.ipynb
 .gitignore
+.ipynb_checkpoints
