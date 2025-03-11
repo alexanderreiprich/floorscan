@@ -1,0 +1,10 @@
+matplotlib
+matplotlib-inline
+numpy
+opencv-python
+pillow
+torch
+torchvision
+tensorboard
+segment_anything
+transformers
