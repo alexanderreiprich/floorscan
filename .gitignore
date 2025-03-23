@@ -1,11 +1,5 @@
 data
 model
-*_old.ipynb
 .gitignore
-.ipynb_checkpoints
-cache
 runs
-yolo
-yolo2
-YOLOv8
 logs
